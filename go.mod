@@ -1,4 +1,4 @@
-module github.com/charliescript/go-csvexcelize
+module github.com/charlieScript/go-csvexcelize
 
 go 1.20
 
